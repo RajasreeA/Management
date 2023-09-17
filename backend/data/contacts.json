@@ -1,0 +1,44 @@
+[
+  {
+    "name": "john",
+    "email": "john@gmail.com",
+    "phone": "2345678901",
+    "id": 99
+  },
+  {
+    "name": "Rajasree Arumugam",
+    "email": "rajasree07042000@gmail.com",
+    "phone": "8825940255",
+    "id": 367
+  },
+  {
+    "name": "Nithya",
+    "email": "nithya27@gmail.com",
+    "phone": "6789012345",
+    "id": 190
+  },
+  {
+    "name": "Steve",
+    "email": "Steve21@gmail.com",
+    "phone": "7890123456",
+    "id": 746
+  },
+  {
+    "name": "Taehung",
+    "email": "tae@gmail.com",
+    "phone": "8901234567",
+    "id": 872
+  },
+  {
+    "name": "Alice",
+    "email": "alice@gmail.com",
+    "phone": "123456789",
+    "id": 168
+  },
+  {
+    "name": "Bob",
+    "email": "bob@gmail.com",
+    "phone": "5678901234",
+    "id": 261
+  }
+]
